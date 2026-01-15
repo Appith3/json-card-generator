@@ -1,36 +1,53 @@
 {
-  "order": {
-	  "type": "number"
-  },
-  "show_element": {
-	  "type": "boolean"
-  },
-  "data_field_name": {
-	  "type": "string"
-  },
-  "card_component_element": {
-	  "type": "string",
-	  "accepted_values": ["title","subtitle","paragraph","badge","action"]
-  },
-  "style_props": {
-    "variant": {
-		  "type": "string",
-		  "accepted_values": ["primary","secondary","muted","danger"]
-	  },
-    "size": {
-		  "type": "string",
-		  "accepted_values": ["sm","md","lg"]
-	  },
-    "align": {
-		  "type": "string",
-		  "accepted_values": ["left","center","right"]
-	  },
-    "icon_name": {
-		  "type": "string"
-	  },
-    "className": {
-		  "type": "string"
-	  }
-  },
-  "required_fields": ["order", "data_field_name", "card_component_element"]
+  "schema_version": "1.0",
+  "description": "Configuration schema for card component elements",
+  "fields": {
+    "display_order": {
+      "type": "number",
+      "required": true,
+      "description": "Order in which the element appears in the card"
+    },
+    "show_element": {
+      "type": "boolean",
+      "required": false,
+      "default": true,
+      "description": "Whether to display this element"
+    },
+    "data_field_name": {
+      "type": "string",
+      "required": true,
+      "enum": ["song_title", "artist_name", "album_name", "isFavorite", "duration_seconds", "rating", "genre"],
+      "description": "Field name from SongRaw schema"
+    },
+    "card_component_element": {
+      "type": "string",
+      "required": true,
+      "enum": ["title", "subtitle", "paragraph", "badge", "action"],
+      "description": "Type of UI component to render"
+    },
+    "style_props": {
+      "type": "object",
+      "required": false,
+      "properties": {
+        "variant": {
+          "type": "string",
+          "enum": ["primary", "secondary", "muted", "danger"]
+        },
+        "size": {
+          "type": "string",
+          "enum": ["sm", "md", "lg"]
+        },
+        "align": {
+          "type": "string",
+          "enum": ["left", "center", "right"]
+        },
+        "icon_name": {
+          "type": "string"
+        },
+        "className": {
+          "type": "string"
+        }
+      }
+    }
+  }
 }

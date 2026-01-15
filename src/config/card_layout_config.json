@@ -1,0 +1,385 @@
+[
+  {
+    "display_order": 1,
+    "show_element": true,
+    "data_field_name": "song_title",
+    "card_component_element": "title",
+    "style_props": {
+      "variant": "primary",
+      "size": "lg",
+      "align": "left"
+    }
+  },
+  {
+    "display_order": 2,
+    "show_element": true,
+    "data_field_name": "artist_name",
+    "card_component_element": "subtitle",
+    "style_props": {
+      "variant": "secondary",
+      "size": "md",
+      "align": "left"
+    }
+  },
+  {
+    "display_order": 3,
+    "show_element": true,
+    "data_field_name": "album_name",
+    "card_component_element": "paragraph",
+    "style_props": {
+      "variant": "muted",
+      "size": "sm",
+      "align": "left"
+    }
+  },
+  {
+    "display_order": 4,
+    "show_element": true,
+    "data_field_name": "rating",
+    "card_component_element": "badge",
+    "style_props": {
+      "variant": "primary",
+      "size": "md",
+      "align": "left"
+    }
+  },
+  {
+    "display_order": 5,
+    "show_element": true,
+    "data_field_name": "duration_seconds",
+    "card_component_element": "paragraph",
+    "style_props": {
+      "variant": "muted",
+      "size": "sm",
+      "align": "right"
+    }
+  },
+  {
+    "display_order": 6,
+    "show_element": true,
+    "data_field_name": "genre",
+    "card_component_element": "badge",
+    "style_props": {
+      "variant": "secondary",
+      "size": "sm",
+      "align": "left"
+    }
+  },
+  {
+    "display_order": 7,
+    "show_element": true,
+    "data_field_name": "isFavorite",
+    "card_component_element": "action",
+    "style_props": {
+      "variant": "danger",
+      "size": "md",
+      "align": "right",
+      "icon_name": "heart"
+    }
+  },
+  {
+    "display_order": 8,
+    "show_element": false,
+    "data_field_name": "song_title",
+    "card_component_element": "paragraph",
+    "style_props": {
+      "variant": "primary",
+      "size": "md",
+      "align": "center"
+    }
+  },
+  {
+    "display_order": 9,
+    "show_element": true,
+    "data_field_name": "artist_name",
+    "card_component_element": "title",
+    "style_props": {
+      "variant": "primary",
+      "size": "lg",
+      "align": "center"
+    }
+  },
+  {
+    "display_order": 10,
+    "show_element": true,
+    "data_field_name": "album_name",
+    "card_component_element": "subtitle",
+    "style_props": {
+      "variant": "secondary",
+      "size": "md",
+      "align": "center"
+    }
+  },
+  {
+    "display_order": 11,
+    "show_element": true,
+    "data_field_name": "genre",
+    "card_component_element": "title",
+    "style_props": {
+      "variant": "danger",
+      "size": "lg",
+      "align": "left"
+    }
+  },
+  {
+    "display_order": 12,
+    "show_element": true,
+    "data_field_name": "duration_seconds",
+    "card_component_element": "badge",
+    "style_props": {
+      "variant": "primary",
+      "size": "lg",
+      "align": "center"
+    }
+  },
+  {
+    "display_order": 13,
+    "show_element": true,
+    "data_field_name": "rating",
+    "card_component_element": "paragraph",
+    "style_props": {
+      "variant": "secondary",
+      "size": "md",
+      "align": "center"
+    }
+  },
+  {
+    "display_order": 14,
+    "show_element": true,
+    "data_field_name": "isFavorite",
+    "card_component_element": "badge",
+    "style_props": {
+      "variant": "danger",
+      "size": "sm",
+      "align": "left",
+      "icon_name": "star"
+    }
+  },
+  {
+    "display_order": 15,
+    "show_element": true,
+    "data_field_name": "song_title",
+    "card_component_element": "subtitle",
+    "style_props": {
+      "variant": "muted",
+      "size": "sm",
+      "align": "right"
+    }
+  },
+  {
+    "display_order": 16,
+    "show_element": false,
+    "data_field_name": "artist_name",
+    "card_component_element": "action",
+    "style_props": {
+      "variant": "primary",
+      "size": "md",
+      "align": "left",
+      "icon_name": "music"
+    }
+  },
+  {
+    "display_order": 17,
+    "show_element": true,
+    "data_field_name": "album_name",
+    "card_component_element": "badge",
+    "style_props": {
+      "variant": "primary",
+      "size": "lg",
+      "align": "right"
+    }
+  },
+  {
+    "display_order": 18,
+    "show_element": true,
+    "data_field_name": "genre",
+    "card_component_element": "paragraph",
+    "style_props": {
+      "variant": "primary",
+      "size": "lg",
+      "align": "right"
+    }
+  },
+  {
+    "display_order": 19,
+    "show_element": true,
+    "data_field_name": "duration_seconds",
+    "card_component_element": "subtitle",
+    "style_props": {
+      "variant": "danger",
+      "size": "md",
+      "align": "left"
+    }
+  },
+  {
+    "display_order": 20,
+    "show_element": true,
+    "data_field_name": "rating",
+    "card_component_element": "action",
+    "style_props": {
+      "variant": "secondary",
+      "size": "sm",
+      "align": "center",
+      "icon_name": "award"
+    }
+  },
+  {
+    "display_order": 21,
+    "show_element": true,
+    "data_field_name": "isFavorite",
+    "card_component_element": "paragraph",
+    "style_props": {
+      "variant": "muted",
+      "size": "md",
+      "align": "center"
+    }
+  },
+  {
+    "display_order": 22,
+    "show_element": true,
+    "data_field_name": "song_title",
+    "card_component_element": "action",
+    "style_props": {
+      "variant": "secondary",
+      "size": "lg",
+      "align": "center",
+      "icon_name": "play"
+    }
+  },
+  {
+    "display_order": 23,
+    "show_element": false,
+    "data_field_name": "artist_name",
+    "card_component_element": "badge",
+    "style_props": {
+      "variant": "danger",
+      "size": "lg",
+      "align": "right"
+    }
+  },
+  {
+    "display_order": 24,
+    "show_element": true,
+    "data_field_name": "album_name",
+    "card_component_element": "title",
+    "style_props": {
+      "variant": "muted",
+      "size": "md",
+      "align": "left"
+    }
+  },
+  {
+    "display_order": 25,
+    "show_element": true,
+    "data_field_name": "genre",
+    "card_component_element": "subtitle",
+    "style_props": {
+      "variant": "secondary",
+      "size": "lg",
+      "align": "center"
+    }
+  },
+  {
+    "display_order": 26,
+    "show_element": true,
+    "data_field_name": "duration_seconds",
+    "card_component_element": "title",
+    "style_props": {
+      "variant": "primary",
+      "size": "sm",
+      "align": "center"
+    }
+  },
+  {
+    "display_order": 27,
+    "show_element": true,
+    "data_field_name": "rating",
+    "card_component_element": "title",
+    "style_props": {
+      "variant": "danger",
+      "size": "md",
+      "align": "right"
+    }
+  },
+  {
+    "display_order": 28,
+    "show_element": true,
+    "data_field_name": "isFavorite",
+    "card_component_element": "subtitle",
+    "style_props": {
+      "variant": "primary",
+      "size": "lg",
+      "align": "left"
+    }
+  },
+  {
+    "display_order": 29,
+    "show_element": true,
+    "data_field_name": "song_title",
+    "card_component_element": "badge",
+    "style_props": {
+      "variant": "secondary",
+      "size": "md",
+      "align": "right",
+      "className": "custom-song-badge"
+    }
+  },
+  {
+    "display_order": 30,
+    "show_element": true,
+    "data_field_name": "artist_name",
+    "card_component_element": "paragraph",
+    "style_props": {
+      "variant": "muted",
+      "size": "lg",
+      "align": "center"
+    }
+  },
+  {
+    "display_order": 31,
+    "show_element": false,
+    "data_field_name": "album_name",
+    "card_component_element": "action",
+    "style_props": {
+      "variant": "secondary",
+      "size": "sm",
+      "align": "right",
+      "icon_name": "disc"
+    }
+  },
+  {
+    "display_order": 32,
+    "show_element": true,
+    "data_field_name": "genre",
+    "card_component_element": "action",
+    "style_props": {
+      "variant": "muted",
+      "size": "md",
+      "align": "left",
+      "icon_name": "tag"
+    }
+  },
+  {
+    "display_order": 33,
+    "show_element": true,
+    "data_field_name": "duration_seconds",
+    "card_component_element": "action",
+    "style_props": {
+      "variant": "secondary",
+      "size": "lg",
+      "align": "right",
+      "icon_name": "clock"
+    }
+  },
+  {
+    "display_order": 34,
+    "show_element": true,
+    "data_field_name": "rating",
+    "card_component_element": "subtitle",
+    "style_props": {
+      "variant": "muted",
+      "size": "sm",
+      "align": "left"
+    }
+  }
+]
