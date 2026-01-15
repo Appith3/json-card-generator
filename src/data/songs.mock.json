@@ -1,0 +1,309 @@
+[
+  {
+    "song_title": "Bohemian Rhapsody",
+    "artist_name": "Queen",
+    "album_name": "A Night at the Opera",
+    "isFavorite": true,
+    "duration_seconds": 354,
+    "rating": 5,
+    "genre": "Rock"
+  },
+  {
+    "song_title": "Imagine",
+    "artist_name": "John Lennon",
+    "album_name": "Imagine",
+    "isFavorite": false,
+    "duration_seconds": 183,
+    "rating": 5,
+    "genre": "Rock"
+  },
+  {
+    "song_title": "Smells Like Teen Spirit",
+    "artist_name": "Nirvana",
+    "album_name": "Nevermind",
+    "isFavorite": true,
+    "duration_seconds": 301,
+    "rating": 4,
+    "genre": "Grunge"
+  },
+  {
+    "song_title": "Billie Jean",
+    "artist_name": "Michael Jackson",
+    "album_name": "Thriller",
+    "isFavorite": true,
+    "duration_seconds": 294,
+    "rating": 5,
+    "genre": "Pop"
+  },
+  {
+    "song_title": "Hotel California",
+    "artist_name": "Eagles",
+    "album_name": "Hotel California",
+    "isFavorite": false,
+    "duration_seconds": 391,
+    "rating": 5,
+    "genre": "Rock"
+  },
+  {
+    "song_title": "Shape of You",
+    "artist_name": "Ed Sheeran",
+    "album_name": "Divide",
+    "isFavorite": false,
+    "duration_seconds": 233,
+    "rating": 4,
+    "genre": "Pop"
+  },
+  {
+    "song_title": "Blinding Lights",
+    "artist_name": "The Weeknd",
+    "album_name": "After Hours",
+    "isFavorite": true,
+    "duration_seconds": 200,
+    "rating": 4,
+    "genre": "Synthpop"
+  },
+  {
+    "song_title": "Despacito",
+    "artist_name": "Luis Fonsi",
+    "album_name": "Vida",
+    "isFavorite": false,
+    "duration_seconds": 229,
+    "rating": 3,
+    "genre": "Pop latino"
+  },
+  {
+    "song_title": "La Bicicleta",
+    "artist_name": "Carlos Vives",
+    "album_name": null,
+    "isFavorite": false,
+    "duration_seconds": 217,
+    "rating": 3,
+    "genre": "Vallenato pop"
+  },
+  {
+    "song_title": "Dejarte Llevar",
+    "artist_name": "Conociendo Rusia",
+    "album_name": "Cabildo y Juramento",
+    "isFavorite": true,
+    "duration_seconds": 214,
+    "rating": 4,
+    "genre": "Rock alternativo"
+  },
+  {
+    "song_title": "Vivir Mi Vida",
+    "artist_name": "Marc Anthony",
+    "album_name": "3.0",
+    "isFavorite": true,
+    "duration_seconds": 252,
+    "rating": 5,
+    "genre": "Salsa"
+  },
+  {
+    "song_title": "Someone Like You",
+    "artist_name": "Adele",
+    "album_name": "21",
+    "isFavorite": false,
+    "duration_seconds": 285,
+    "rating": 5,
+    "genre": "Balada"
+  },
+  {
+    "song_title": "Take On Me",
+    "artist_name": "a-ha",
+    "album_name": "Hunting High and Low",
+    "isFavorite": false,
+    "duration_seconds": 225,
+    "rating": 4,
+    "genre": "Pop"
+  },
+  {
+    "song_title": "Fix You",
+    "artist_name": "Coldplay",
+    "album_name": "X&Y",
+    "isFavorite": true,
+    "duration_seconds": 295,
+    "rating": 5,
+    "genre": "Rock alternativo"
+  },
+  {
+    "song_title": "HUMBLE.",
+    "artist_name": "Kendrick Lamar",
+    "album_name": "DAMN.",
+    "isFavorite": false,
+    "duration_seconds": 177,
+    "rating": 4,
+    "genre": "Hip hop"
+  },
+  {
+    "song_title": "Bad Guy",
+    "artist_name": "Billie Eilish",
+    "album_name": "When We All Fall Asleep, Where Do We Go?",
+    "isFavorite": false,
+    "duration_seconds": 194,
+    "rating": 4,
+    "genre": "Electropop"
+  },
+  {
+    "song_title": "Bésame Mucho",
+    "artist_name": "Consuelo Velázquez",
+    "album_name": null,
+    "isFavorite": false,
+    "duration_seconds": 270,
+    "rating": null,
+    "genre": "Bolero"
+  },
+  {
+    "song_title": "Heroes",
+    "artist_name": "David Bowie",
+    "album_name": "Heroes",
+    "isFavorite": true,
+    "duration_seconds": 369,
+    "rating": 5,
+    "genre": "Rock"
+  },
+  {
+    "song_title": "Get Lucky",
+    "artist_name": "Daft Punk",
+    "album_name": "Random Access Memories",
+    "isFavorite": false,
+    "duration_seconds": 248,
+    "rating": 4,
+    "genre": "Disco"
+  },
+  {
+    "song_title": "Rolling in the Deep",
+    "artist_name": "Adele",
+    "album_name": "21",
+    "isFavorite": true,
+    "duration_seconds": 228,
+    "rating": 5,
+    "genre": "Soul"
+  },
+  {
+    "song_title": "Gangnam Style",
+    "artist_name": "PSY",
+    "album_name": null,
+    "isFavorite": false,
+    "duration_seconds": 253,
+    "rating": 3,
+    "genre": "K-pop"
+  },
+  {
+    "song_title": "Clocks",
+    "artist_name": "Coldplay",
+    "album_name": "A Rush of Blood to the Head",
+    "isFavorite": false,
+    "duration_seconds": 307,
+    "rating": 4,
+    "genre": "Rock alternativo"
+  },
+  {
+    "song_title": "La Canción",
+    "artist_name": "Bad Bunny",
+    "album_name": "Oasis",
+    "isFavorite": true,
+    "duration_seconds": 242,
+    "rating": 4,
+    "genre": "Reguetón"
+  },
+  {
+    "song_title": "Ne Me Quitte Pas",
+    "artist_name": "Jacques Brel",
+    "album_name": null,
+    "isFavorite": false,
+    "duration_seconds": 223,
+    "rating": 5,
+    "genre": "Chanson"
+  },
+  {
+    "song_title": "Yesterday",
+    "artist_name": "The Beatles",
+    "album_name": "Help!",
+    "isFavorite": true,
+    "duration_seconds": 125,
+    "rating": 5,
+    "genre": "Balada"
+  },
+  {
+    "song_title": null,
+    "artist_name": "Radiohead",
+    "album_name": "OK Computer",
+    "isFavorite": false,
+    "duration_seconds": 386,
+    "rating": 5,
+    "genre": "Rock alternativo"
+  },
+  {
+    "song_title": "Creep",
+    "artist_name": null,
+    "album_name": "Pablo Honey",
+    "isFavorite": true,
+    "duration_seconds": 238,
+    "rating": 4,
+    "genre": "Rock alternativo"
+  },
+  {
+    "song_title": "No Surprises",
+    "artist_name": "Radiohead",
+    "album_name": null,
+    "isFavorite": false,
+    "duration_seconds": 229,
+    "rating": 5,
+    "genre": "Rock alternativo"
+  },
+  {
+    "song_title": "Karma Police",
+    "artist_name": "Radiohead",
+    "album_name": "OK Computer",
+    "isFavorite": false,
+    "duration_seconds": null,
+    "rating": 5,
+    "genre": "Rock alternativo"
+  },
+  {
+    "song_title": "Paranoid Android",
+    "artist_name": "Radiohead",
+    "album_name": "OK Computer",
+    "isFavorite": true,
+    "duration_seconds": 387,
+    "rating": null,
+    "genre": "Rock alternativo"
+  },
+  {
+    "song_title": "Fake Plastic Trees",
+    "artist_name": "Radiohead",
+    "album_name": "The Bends",
+    "isFavorite": false,
+    "duration_seconds": 290,
+    "rating": 4,
+    "genre": null
+  },
+  {
+    "song_title": null,
+    "artist_name": null,
+    "album_name": "Unknown Album",
+    "isFavorite": false,
+    "duration_seconds": null,
+    "rating": null,
+    "genre": "Desconocido"
+  },
+  {
+    "song_title": "Unknown Song",
+    "artist_name": null,
+    "album_name": null,
+    "isFavorite": false,
+    "duration_seconds": null,
+    "rating": null,
+    "genre": null
+  },
+  {
+    "song_title": null,
+    "artist_name": null,
+    "album_name": null,
+    "isFavorite": false,
+    "duration_seconds": null,
+    "rating": null,
+    "genre": null
+  }
+]
+

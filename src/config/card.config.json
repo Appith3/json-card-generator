@@ -1,0 +1,36 @@
+{
+  "order": {
+	  "type": "number"
+  },
+  "show_element": {
+	  "type": "boolean"
+  },
+  "data_field_name": {
+	  "type": "string"
+  },
+  "card_component_element": {
+	  "type": "string",
+	  "accepted_values": ["title","subtitle","paragraph","badge","action"]
+  },
+  "style_props": {
+    "variant": {
+		  "type": "string",
+		  "accepted_values": ["primary","secondary","muted","danger"]
+	  },
+    "size": {
+		  "type": "string",
+		  "accepted_values": ["sm","md","lg"]
+	  },
+    "align": {
+		  "type": "string",
+		  "accepted_values": ["left","center","right"]
+	  },
+    "icon_name": {
+		  "type": "string"
+	  },
+    "className": {
+		  "type": "string"
+	  }
+  },
+  "required_fields": ["order", "data_field_name", "card_component_element"]
+}
